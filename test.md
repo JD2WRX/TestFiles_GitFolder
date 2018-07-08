@@ -1,6 +1,7 @@
-*** line one
-*** line two 
-line three
-*** line four
+** line one
 
- href="http://pragprog.com/dnvim/">Practical Vim</a>
+** line two
+
+line three
+
+** line four
